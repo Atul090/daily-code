@@ -1,0 +1,12 @@
+Structure the app properly
+
+components: 
+components are the building blocks of user interface. they alow yuou to split the ui into independent , reusable pieces that
+cna be thought of as custim, self-contained HTML elements
+x   
+states helps to rerender the components
+
+maing components 
+reredi=erning components
+
+conditional rerendering is done wiht the help of props
